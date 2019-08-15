@@ -13,7 +13,7 @@ public class Main {
         System.out.println("After");
         String s2 = story.replaceAll("вода", "водка");
         System.out.println(s2);
-System.out.println("First ojn GitHub :)");
+System.out.println("First ojn GitHub ");
     }
 }
 
